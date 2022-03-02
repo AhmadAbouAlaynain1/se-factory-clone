@@ -12,11 +12,11 @@ const TechnicalTopics = () => {
         <li>Relational Databases</li>
       </ul>
       <ul className="text-xl w-3 font-medium">
-        <li>Ubuntu and Bash</li>
-        <li>Git and Source Control</li>
-        <li>Object Oriented Programming</li>
-        <li>Design Patterns</li>
-        <li>Relational Databases</li>
+        <li>PHP, Javascript, HTML, CSS</li>
+        <li>Laravel/MVC</li>
+        <li>React</li>
+        <li>Security</li>
+        <li>Amazon Web Services</li>
       </ul>
     </section>
   );
